@@ -11,6 +11,7 @@ Object.defineProperty(window, 'l10n', {
                 de: 'Fehler',
                 es: 'Error',
                 zh: '错误',
+                it: 'Errore',
             },
             'Good luck': {
                 fr: 'Bonne chance',
@@ -21,6 +22,7 @@ Object.defineProperty(window, 'l10n', {
                 de: 'Viel Glück',
                 es: 'Buena Suerte',
                 zh: '祝好运',
+                it: 'Buona fortuna',
             },
             'UH OH': {
                 fr: 'Oups',
@@ -31,6 +33,7 @@ Object.defineProperty(window, 'l10n', {
                 de: 'Hoppla',
                 es: 'Oups',
                 zh: '哎呀',
+                it: 'Ops',
             },
             'Request details': {
                 fr: 'Détails de la requête',
@@ -41,6 +44,7 @@ Object.defineProperty(window, 'l10n', {
                 de: 'Details der Anfrage',
                 es: 'Detalles de la petición',
                 zh: '请求详情',
+                it: 'Dettagli richiesta',
             },
             'Double-check the URL': {
                 fr: 'Vérifiez l’URL',
@@ -51,6 +55,7 @@ Object.defineProperty(window, 'l10n', {
                 de: 'Überprüfen Sie die URL',
                 es: 'Verifique la url',
                 zh: '请再次检查地址',
+                it: 'Ricontrolla l\'url'
             },
             'Alternatively, go back': {
                 fr: 'Essayer de revenir en arrière',
@@ -61,6 +66,7 @@ Object.defineProperty(window, 'l10n', {
                 de: 'Alternativ gehen Sie zurück',
                 es: 'Como alternativa, vuelva atrás',
                 zh: '或返回上一页',
+                it: 'In alternativa, torna indietro',
             },
             'Here\'s what might have happened': {
                 fr: 'Voici ce qui aurait pu se passer',
@@ -71,6 +77,7 @@ Object.defineProperty(window, 'l10n', {
                 de: 'Folgendes könnte passiert sein',
                 es: 'Esto es lo que ha podido pasar',
                 zh: '可能原因有',
+                it: 'Ecco cosa potrebbe essere successo',
             },
             'You may have mistyped the URL': {
                 fr: 'Vous avez peut-être mal tapé l’URL',
@@ -81,6 +88,7 @@ Object.defineProperty(window, 'l10n', {
                 de: 'Möglicherweise haben Sie die URL falsch eingegeben',
                 es: 'Igual ha escrito mal la URL',
                 zh: '您可能输入了错误的地址',
+                it: 'Potresti aver scritto male l\'url',
             },
             'The site was moved': {
                 fr: 'Le site a été déplacé',
@@ -91,6 +99,7 @@ Object.defineProperty(window, 'l10n', {
                 de: 'Die Seite wurde verschoben',
                 es: 'El sitio se ha movido',
                 zh: '站点已被转移',
+                it: 'Il sito è stato spostato',
             },
             'It was never here': {
                 fr: 'Il n’a jamais été ici',
@@ -101,6 +110,7 @@ Object.defineProperty(window, 'l10n', {
                 de: 'Es war nie hier',
                 es: 'Nunca ha estado aquí',
                 zh: '站点从未存在',
+                it: 'Non è mai stato qui',
             },
             'Bad Request': {
                 fr: 'Mauvaise requête',
@@ -111,6 +121,7 @@ Object.defineProperty(window, 'l10n', {
                 de: 'Fehlerhafte Anfrage',
                 es: 'Petición inválida',
                 zh: '错误请求',
+                it: 'Richiesta invalida',
             },
             'The server did not understand the request': {
                 fr: 'Le serveur ne comprend pas la requête',
@@ -121,6 +132,7 @@ Object.defineProperty(window, 'l10n', {
                 de: 'Der Server hat die Anfrage nicht verstanden',
                 es: 'El servidor no entendió la petición',
                 zh: '服务器不理解该请求',
+                it: 'Il server non ha compreso la richiesta',
             },
             'Unauthorized': {
                 fr: 'Non autorisé',
@@ -131,6 +143,7 @@ Object.defineProperty(window, 'l10n', {
                 de: 'Nicht autorisiert',
                 es: 'No autorizado',
                 zh: '未经授权',
+                it: 'Non autorizzato',
             },
             'The requested page needs a username and a password': {
                 fr: 'La page demandée nécessite un nom d’utilisateur et un mot de passe',
@@ -141,6 +154,7 @@ Object.defineProperty(window, 'l10n', {
                 de: 'Die angeforderte Seite benötigt einen Benutzernamen und ein Passwort',
                 es: 'La página solicitada necesita un usuario y una contraseña',
                 zh: '请求的页面需要用户名和密码',
+                it: 'La pagina richiesta richiede delle credenziali',
             },
             'Forbidden': {
                 fr: 'Interdit',
@@ -151,6 +165,7 @@ Object.defineProperty(window, 'l10n', {
                 de: 'Verboten',
                 es: 'Prohibido',
                 zh: '禁止访问',
+                it: 'Vietato',
             },
             'Access is forbidden to the requested page': {
                 fr: 'Accès interdit à la page demandée',
@@ -161,6 +176,7 @@ Object.defineProperty(window, 'l10n', {
                 de: 'Der Zugriff auf die angeforderte Seite ist verboten',
                 es: 'El acceso está prohibido para la página solicitada',
                 zh: '禁止访问请求的页面',
+                it: 'Accesso vietato per la pagina richiesta',
             },
             'Not Found': {
                 fr: 'Introuvable',
@@ -171,6 +187,7 @@ Object.defineProperty(window, 'l10n', {
                 de: 'Nicht gefunden',
                 es: 'No encontrado',
                 zh: '未找到',
+                it: 'Non trovato',
             },
             'The server can not find the requested page': {
                 fr: 'Le serveur ne peut trouver la page demandée',
@@ -181,6 +198,7 @@ Object.defineProperty(window, 'l10n', {
                 de: 'Der Server kann die angeforderte Seite nicht finden',
                 es: 'El servidor no puede encontrar la página solicitada',
                 zh: '服务器找不到请求的页面',
+                it: 'Il server non trova la pagina richiesta',
             },
             'Method Not Allowed': {
                 fr: 'Méthode Non Autorisée',
@@ -191,6 +209,7 @@ Object.defineProperty(window, 'l10n', {
                 de: 'Methode nicht erlaubt',
                 es: 'Método no permitido',
                 zh: '方法不被允许',
+                it: 'Metodo non consentito',
             },
             'The method specified in the request is not allowed': {
                 fr: 'La méthode spécifiée dans la requête n’est pas autorisée',
@@ -201,6 +220,7 @@ Object.defineProperty(window, 'l10n', {
                 de: 'Die in der Anfrage angegebene Methode ist nicht zulässig',
                 es: 'El método especificado en la petición no está permitido',
                 zh: '请求指定的方法不被允许',
+                it: 'Il metodo utilizzato nella richiesta non è permesso',
             },
             'Proxy Authentication Required': {
                 fr: 'Authentification proxy requise',
@@ -211,6 +231,7 @@ Object.defineProperty(window, 'l10n', {
                 de: 'Proxy-Authentifizierung benötigt',
                 es: 'Autenticación de proxy requerida',
                 zh: '需要代理服务器身份验证',
+                it: 'Autenticazione con proxy obbligatoria',
             },
             'You must authenticate with a proxy server before this request can be served': {
                 fr: 'Vous devez vous authentifier avec un serveur proxy avant que cette requête puisse être servie',
@@ -221,6 +242,7 @@ Object.defineProperty(window, 'l10n', {
                 de: 'Sie müssen sich bei einem Proxy-Server authentifizieren, bevor diese Anfrage bedient werden kann',
                 es: 'Debes autentificarte con un servidor proxy antes de que esta petición pueda ser atendida',
                 zh: '您必须对代理服务器进行身份验证，然后才能让请求得到处理',
+                it: 'Autenticazione con proxy necessaria per servire questa richiesta',
             },
             'Request Timeout': {
                 fr: 'Requête expiré',
@@ -231,6 +253,7 @@ Object.defineProperty(window, 'l10n', {
                 de: 'Zeitüberschreitung der Anforderung',
                 es: 'Tiempo límite de la petición excedido',
                 zh: '请求超时',
+                it: 'Tempo limite superato',
             },
             'The request took longer than the server was prepared to wait': {
                 fr: 'La requête prend plus de temps que prévu',
@@ -241,6 +264,7 @@ Object.defineProperty(window, 'l10n', {
                 de: 'Die Anfrage hat länger gedauert, als der Server bereit war zu warten',
                 es: 'La petición esta tardando más de lo que el servidor estaba preparado para esperar',
                 zh: '请求用时超过了服务器设置的最长等待时间',
+                it: 'La richiesta ha impiegato più tempo di quanto fornito dal server',
             },
             'Conflict': {
                 fr: 'Conflit',
@@ -251,6 +275,7 @@ Object.defineProperty(window, 'l10n', {
                 de: 'Konflikt',
                 es: 'Conflicto',
                 zh: '冲突',
+                it: 'Conflitto',
             },
             'The request could not be completed because of a conflict': {
                 fr: 'La requête n’a pas pu être complétée à cause d’un conflit',
@@ -261,6 +286,7 @@ Object.defineProperty(window, 'l10n', {
                 de: 'Die Anfrage konnte aufgrund eines Konflikts nicht abgeschlossen werden',
                 es: 'La petición no ha podido ser completada por un conflicto',
                 zh: '由于冲突，请求无法完成',
+                it: 'La richiesta non è stata completata a causa di un conflitto',
             },
             'Gone': {
                 fr: 'Supprimé',
@@ -271,6 +297,7 @@ Object.defineProperty(window, 'l10n', {
                 de: 'Verschwunden',
                 es: 'Eliminado',
                 zh: '已移除',
+                it: 'Rimosso',
             },
             'The requested page is no longer available': {
                 fr: 'La page demandée n’est plus disponible',
@@ -281,6 +308,7 @@ Object.defineProperty(window, 'l10n', {
                 de: 'Die angeforderte Seite ist nicht mehr verfügbar',
                 es: 'La página solicitada no está ya disponible',
                 zh: '请求的页面不再可用',
+                it: 'La pagina richiesta non è più disponibile',
             },
             'Length Required': {
                 fr: 'Longueur requise',
@@ -291,6 +319,7 @@ Object.defineProperty(window, 'l10n', {
                 de: 'Länge benötigt',
                 es: 'Longitud requerida',
                 zh: '需要长度',
+                it: 'Lunghezza Richiesta',
             },
             'The "Content-Length" is not defined. The server will not accept the request without it': {
                 fr: 'Le "Content-Length" n’est pas défini. Le serveur ne prendra pas en compte la requête',
@@ -299,8 +328,9 @@ Object.defineProperty(window, 'l10n', {
                 pt: 'O "Content-Length" não está definido. O servidor não aceitará a solicitação sem ele',
                 nl: 'De "Content-Length" is niet gespecificeerd. De server accepteert het verzoek niet zonder',
                 de: 'Die "Content-Length" ist nicht definiert. Ohne sie akzeptiert der Server die Anfrage nicht',
-                es: 'El "Content-Legth" no eta definido. Este servidor no aceptará la petición sin él',
+                es: 'El "Content-Length" no eta definido. Este servidor no aceptará la petición sin él',
                 zh: '未指定Content-Length(内容长度)。服务器将不接受不包含此头信息的请求',
+                it: '"Content-Length" non definito. Il server non accetta richieste senza di esso',
             },
             'Precondition Failed': {
                 fr: 'Échec de la condition préalable',
@@ -311,6 +341,7 @@ Object.defineProperty(window, 'l10n', {
                 de: 'Vorbedingung fehlgeschlagen',
                 es: 'Precondición fallida',
                 zh: '前置条件判定失败',
+                it: 'Precondizione Fallita',
             },
             'The pre condition given in the request evaluated to false by the server': {
                 fr: 'La précondition donnée dans la requête a été évaluée comme étant fausse par le serveur',
@@ -321,6 +352,7 @@ Object.defineProperty(window, 'l10n', {
                 de: 'Die in der Anfrage angegebene Vorbedingung wird vom Server als falsch bewertet',
                 es: 'La precondición ha sido evaluada como negativa para esta petición por el servidor',
                 zh: '服务器评估请求中给出的前置条件的结果为false(假)',
+                it: 'La precondizione fornita è stata valutata come negativa dal server',
             },
             'Payload Too Large': {
                 fr: 'Charge trop volumineuse',
@@ -331,6 +363,7 @@ Object.defineProperty(window, 'l10n', {
                 de: 'Anfrage zu groß',
                 es: 'Carga muy grande',
                 zh: '请求体过大',
+                it: 'Carico troppo grande',
             },
             'The server will not accept the request, because the request entity is too large': {
                 fr: 'Le serveur ne prendra pas en compte la requête, car l’entité de la requête est trop volumineuse',
@@ -341,6 +374,7 @@ Object.defineProperty(window, 'l10n', {
                 de: 'Der Server akzeptiert die Anfrage nicht, da die Datenmenge zu groß ist',
                 es: 'El servidor no aceptará esta petición, porque la carga es demasiado grande',
                 zh: '请求体过大，服务器将不接受该请求',
+                it: 'Il server non accetterà la richiesta perché la sua entità è troppo grande',
             },
             'Requested Range Not Satisfiable': {
                 fr: 'Requête non satisfaisante',
@@ -351,6 +385,7 @@ Object.defineProperty(window, 'l10n', {
                 de: 'Anfrage-Bereich nicht erfüllbar',
                 es: 'Intervalo solicitado no satisfactorio',
                 zh: '不满足请求范围',
+                it: 'Intervallo Non Soddisfacibile',
             },
             'The requested byte range is not available and is out of bounds': {
                 fr: 'Le byte range demandé n’est pas disponible et est hors des limites',
@@ -361,6 +396,7 @@ Object.defineProperty(window, 'l10n', {
                 de: 'Der angefragte Teilbereich der Ressource existiert nicht oder ist ungültig',
                 es: 'El intervalo de bytes requerido no está disponible o se encuentra fuera de los límites',
                 zh: '请求的字节范围不可用，超出边界',
+                it: 'L\'intervallo di byte della richiesta non è disponibile ed è oltre i limiti consentiti',
             },
             'I\'m a teapot': {
                 fr: 'Je suis une théière',
@@ -371,6 +407,7 @@ Object.defineProperty(window, 'l10n', {
                 de: 'Ich bin eine Teekanne',
                 es: 'Soy una tetera',
                 zh: '我是一只茶壶',
+                it: 'Sono una teiera',
             },
             'Attempt to brew coffee with a teapot is not supported': {
                 fr: 'Tenter de préparer du café avec une théière n’est pas pris en charge',
@@ -381,6 +418,7 @@ Object.defineProperty(window, 'l10n', {
                 de: 'Der Versuch, Kaffee mit einer Teekanne zuzubereiten, wird nicht unterstützt',
                 es: 'Intentar hacer un café en una tetera no está soportado',
                 zh: '用茶壶泡咖啡不受支持',
+                it: 'La preparazione del caffè con una teiera non è supportata',
             },
             'Too Many Requests': {
                 fr: 'Trop de requêtes',
@@ -391,6 +429,7 @@ Object.defineProperty(window, 'l10n', {
                 de: 'Zu viele Anfragen',
                 es: 'Demasiadas peticiones',
                 zh: '请求过多',
+                it: 'Troppe richieste',
             },
             'Too many requests in a given amount of time': {
                 fr: 'Trop de requêtes dans un délai donné',
@@ -401,6 +440,7 @@ Object.defineProperty(window, 'l10n', {
                 de: 'Der Client hat zu viele Anfragen in einem bestimmten Zeitraum gesendet',
                 es: 'Demasiadas peticiones en un determinado periodo de tiempo',
                 zh: '在给定的时间内发送了过多请求',
+                it: 'Troppe richieste in un determinato periodo temporale',
             },
             'Internal Server Error': {
                 fr: 'Erreur interne du serveur',
@@ -411,6 +451,7 @@ Object.defineProperty(window, 'l10n', {
                 de: 'Interner Server-Fehler',
                 es: 'Error Interno',
                 zh: '内部服务器错误',
+                it: 'Errore interno'
             },
             'The server met an unexpected condition': {
                 fr: 'Le serveur a rencontré une condition inattendue',
@@ -421,6 +462,7 @@ Object.defineProperty(window, 'l10n', {
                 de: 'Der Server hat einen internen Fehler festgestellt',
                 es: 'El servidor ha encontrado una condición no esperada',
                 zh: '服务器遇到了意外情况',
+                it: 'Il server ha riscontrato delle condizioni inaspettate',
             },
             'Bad Gateway': {
                 fr: 'Mauvaise passerelle',
@@ -431,6 +473,7 @@ Object.defineProperty(window, 'l10n', {
                 de: 'Fehlerhafter Gateway',
                 es: 'Puerta de enlace no valida',
                 zh: '无效网关',
+                it: 'Gateway invalido',
             },
             'The server received an invalid response from the upstream server': {
                 fr: 'Le serveur a reçu une réponse invalide du serveur distant',
@@ -441,6 +484,7 @@ Object.defineProperty(window, 'l10n', {
                 de: 'Der Server hat eine ungültige Antwort vom Upstream-Server erhalten',
                 es: 'El servidor ha recibido una respuesta no válida del servidor de origen',
                 zh: '服务器从上游服务器收到了无效的响应',
+                it: 'Il server ha ricevuto una risposta invalida dal server d\'origine',
             },
             'Service Unavailable': {
                 fr: 'Service indisponible',
@@ -451,6 +495,7 @@ Object.defineProperty(window, 'l10n', {
                 de: 'Dienst nicht verfügbar',
                 es: 'Servicio no disponible',
                 zh: '服务不可用',
+                it: 'Servizzio non disponibile',
             },
             'The server is temporarily overloading or down': {
                 fr: 'Le serveur est temporairement en surcharge ou indisponible',
@@ -461,6 +506,7 @@ Object.defineProperty(window, 'l10n', {
                 de: 'Der Server ist vorübergehend überlastet oder ausgefallen',
                 es: 'El servidor está temporalmente sobrecargado o inactivo',
                 zh: '服务器暂时过载或不可用',
+                it: 'Il server è temporaneamente sovraccarico o irraggiungibile',
             },
             'Gateway Timeout': {
                 fr: 'Expiration Passerelle',
@@ -481,6 +527,7 @@ Object.defineProperty(window, 'l10n', {
                 de: 'Das Zeitlimit für den Verbindungsaufbau mit dem Upstream-Server ist abgelaufen',
                 es: 'La puerta de enlace ha sobrepasado el tiempo límite',
                 zh: '网关响应已经超时',
+                it: '
             },
             'HTTP Version Not Supported': {
                 fr: 'Version HTTP non prise en charge',
